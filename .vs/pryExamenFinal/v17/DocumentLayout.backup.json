@@ -1,0 +1,93 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryexamenfinal\\frmsistemagestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|solutionrelative:pryexamenfinal\\frmsistemagestion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryexamenfinal\\clssocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|solutionrelative:pryexamenfinal\\clssocio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryexamenfinal\\clsbarrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|solutionrelative:pryexamenfinal\\clsbarrio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryexamenfinal\\clsactividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FDD71A8-0A8F-46AC-AC50-995854555CC1}|pryExamenFinal\\pryExamenFinal.csproj|solutionrelative:pryexamenfinal\\clsactividad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmSistemaGestion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\frmSistemaGestion.cs",
+              "RelativeDocumentMoniker": "pryExamenFinal\\frmSistemaGestion.cs",
+              "ToolTip": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\frmSistemaGestion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "pryExamenFinal\\frmSistemaGestion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T03:14:05.307Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "clsSocio.cs",
+              "DocumentMoniker": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\clsSocio.cs",
+              "RelativeDocumentMoniker": "pryExamenFinal\\clsSocio.cs",
+              "ToolTip": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\clsSocio.cs",
+              "RelativeToolTip": "pryExamenFinal\\clsSocio.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAuwKEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:57:12.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "clsBarrio.cs",
+              "DocumentMoniker": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\clsBarrio.cs",
+              "RelativeDocumentMoniker": "pryExamenFinal\\clsBarrio.cs",
+              "ToolTip": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\clsBarrio.cs",
+              "RelativeToolTip": "pryExamenFinal\\clsBarrio.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAuwDgAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T02:56:17.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsActividad.cs",
+              "DocumentMoniker": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\clsActividad.cs",
+              "RelativeDocumentMoniker": "pryExamenFinal\\clsActividad.cs",
+              "ToolTip": "E:\\MATERIAS 2DO  SEMESTRE\\LABORATORIO DE PROGRAMACION 2\\TRABAJO FINAL\\Examen Final\\pryExamenFinal\\pryExamenFinal\\clsActividad.cs",
+              "RelativeToolTip": "pryExamenFinal\\clsActividad.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwC0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:18:57.844Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
